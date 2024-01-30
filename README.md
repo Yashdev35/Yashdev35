@@ -4,6 +4,6 @@ hello there
 - looking forward participate and win hackathons
 - Studying Btech in cse at IIT Indore 
 - 💬 currently rookie.
-- ⚡ Fun fact : apart from coding are GYM and following combat sports 
+- ⚡ Fun fact : apart from coding, i also like physical training(GYM) and following combat sports 
 
 
