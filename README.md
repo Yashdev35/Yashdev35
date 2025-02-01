@@ -10,7 +10,7 @@ I'm a **Full-Stack App Developer** with a deep passion for building scalable, hi
 - 💻 **Backend:** Ktor, Java Spring Boot, currently expanding my **Web Backend** skills
 - 🤖 **Machine Learning:** Experienced with **Transformers** and integrating ML models into mobile apps for real-world applications
 - 🌍 **Version Control:** Git & GitHub
-- 🏆 **Hackathons:** Actively participating and striving to excel in **hackathons**, pushing boundaries and collaborating on innovative projects
+- 🏆 **Hackathons:** Actively participating and striving to excel in **hackathons**.
 - ⚡ **Hobbies:** Avid follower of **Combat Sports**, always eager to learn and grow
 
 ## 🌱 What I'm Learning
@@ -19,8 +19,8 @@ I'm a **Full-Stack App Developer** with a deep passion for building scalable, hi
 - Enhancing my **System Design & Architecture** skills
 
 ## 📫 Connect With Me
-- **GitHub:** [https://github.com/Yashdev35]
-- **LinkedIn:** [www.linkedin.com/in/yash-kumbhkarn-a43b29298]
+- (**GitHub:**)[https://github.com/Yashdev35]
+- (**LinkedIn:**)[www.linkedin.com/in/yash-kumbhkarn-a43b29298]
 
 Let's innovate, collaborate, and create something amazing together! 🚀
 
