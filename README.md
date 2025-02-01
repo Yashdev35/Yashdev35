@@ -19,8 +19,7 @@ I'm a **Full-Stack App Developer** with a deep passion for building scalable, hi
 - Enhancing my **System Design & Architecture** skills
 
 ## 📫 Connect With Me
-- (**GitHub:**)[https://github.com/Yashdev35]
-- (**LinkedIn:**)[www.linkedin.com/in/yash-kumbhkarn-a43b29298]
+- **[LinkedIn](www.linkedin.com/in/yash-kumbhkarn-a43b29298)**
 
 Let's innovate, collaborate, and create something amazing together! 🚀
 
