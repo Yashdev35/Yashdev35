@@ -1,25 +1,23 @@
-# Hi there! 👋
+Hi there! 👋
 
 ## 🚀 About Me
 
-I'm a **Full-Stack App Developer** with a deep passion for building scalable, high-performance applications. I thrive on solving complex problems and enjoy turning ideas into reality through development.
+I'm a **Hardware Developer** specializing in designing and implementing digital systems with a passion for bringing hardware ideas to life.
 
-- 🎓 **BTech CSE** at **IIT Indore**
-- 🛠️ **Tech Stack:** Flutter, Kotlin, Kotlin KMP, Java, Ktor, Spring Boot
-- 🗄️ **Databases:** Firebase, PostgreSQL, MongoDB
-- 💻 **Backend:** Ktor, Java Spring Boot, currently expanding my **Web Backend** skills
-- 🤖 **Machine Learning:** Experienced with **Transformers** and integrating ML models into mobile apps for real-world applications
-- 🌍 **Version Control:** Git & GitHub
-- 🏆 **Hackathons:** Actively participating and striving to excel in **hackathons**.
-- ⚡ **Hobbies:** Avid follower of **Combat Sports**, always eager to learn and grow
+* 🎓 **BTech CSE** at **IIT Indore**
+* 🛠️ **Tech Stack:** VHDL, Vivado, Intel Quartus, Python, OpenCV, TensorFlow
+* 🌱 **Learning:** SystemVerilog
+* 🤖 **Machine Learning:** Experienced with **Transformers**, **TensorFlow**, and integrating ML models into mobile apps using **TensorFlow Lite**
+* 🌍 **Version Control:** Git & GitHub
+* ⚡ **Hobbies:** Avid follower of **Combat Sports**, always eager to learn and grow
 
 ## 🌱 What I'm Learning
-- Mastering **Advanced Web Backend Development**
-- Exploring **Cutting-Edge ML Integrations** in mobile applications
-- Enhancing my **System Design & Architecture** skills
+
+* Exploring **Cutting-Edge ML Integrations** in mobile applications
+* Enhancing my **System Design & Architecture** skills
 
 ## 📫 Connect With Me
-- **[LinkedIn](www.linkedin.com/in/yash-kumbhkarn-a43b29298)**
+
+* **[LinkedIn](https://www.linkedin.com/in/yash-kumbhkarn-a43b29298)**
 
 Let's innovate, collaborate, and create something amazing together! 🚀
-
